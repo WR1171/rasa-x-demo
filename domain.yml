@@ -5,6 +5,8 @@ intents:
   - mood_deny
   - mood_great
   - mood_unhappy
+  - ask_why_company_is_unique
+
 
 responses:
   utter_greet:
@@ -27,6 +29,10 @@ responses:
 
   utter_goodbye:
     - text: "Bye"
+    
+  utter_unique:
+    - text: "So many things. Out bots are not just chatbots, they will be backed by intelligence that is using quantum computing and a jelly brain that is being researched and developed by our partner in Japan."
+    - text: "So what is truly unique is that this is the first time it is being done at scale."
 
 actions:
   - utter_greet
@@ -34,6 +40,7 @@ actions:
   - utter_did_that_help
   - utter_happy
   - utter_goodbye
+  - utter_unique
 
 session_config:
   session_expiration_time: 60.0
