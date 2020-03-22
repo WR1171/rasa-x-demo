@@ -1,1 +1,14 @@
-
+## intent:ask_why_company_is_unique
+- What is unique about your company
+- What is unique about the company
+- What is unique about x-company
+- What is unique about xcompany
+- What is unique about cen
+- What is unique about the xcompany
+- why are you unique
+- What's different about you
+- What is different about you
+- how are you unique
+- how are you different from other companies
+- how are you different from siri
+- how are you different from alexa
