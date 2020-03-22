@@ -3,7 +3,9 @@
   - utter_greet
 * mood_great               <!-- user utterance, in format _intent[entities] -->
   - utter_happy
-
+* ask_why_company_is_unique
+  - utter_unique
+  
 ## sad path 1               <!-- this is already the start of the next story -->
 * greet
   - utter_greet             <!-- action of the bot to execute -->
