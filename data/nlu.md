@@ -4,8 +4,11 @@
 - नमस्कार <!-- Hindi -->
 - வணக்கம் <!-- Tamil -->
 - ಹಲೋ <!-- Kannada -->
+- こんにちは <!-- Japanese Hiragana -->
+- Kon'nichiwa <!-- Japanese Rōmaji -->
+- Konichiwa <!-- Japanese spelling error -->
 - hi
-- नमस्ते  <!-- Hindi -->
+- नमस्ते <!-- Hindi Namasthe -->
 - Namasthe
 - hello there
 - good morning
