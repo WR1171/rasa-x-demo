@@ -1,8 +1,12 @@
 ## intent:greet
 - hey
-- testh
 - hello
+- नमस्कार <!-- Hindi -->
+- வணக்கம் <!-- Tamil -->
+- ಹಲೋ <!-- Kannada -->
 - hi
+- नमस्ते  <!-- Hindi -->
+- Namasthe
 - hello there
 - good morning
 - good evening
