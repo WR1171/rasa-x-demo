@@ -1,14 +1,14 @@
 ## intent:greet
 - hey
 - hello
-- नमस्कार <!-- Hindi -->
-- வணக்கம் <!-- Tamil -->
-- ಹಲೋ <!-- Kannada -->
-- こんにちは <!-- Japanese Hiragana -->
-- Kon'nichiwa <!-- Japanese Rōmaji -->
-- Konichiwa <!-- Japanese spelling error -->
+- नमस्कार
+- வணக்கம்
+- ಹಲೋ
+- こんにちは
+- Kon'nichiwa
+- Konichiwa
 - hi
-- नमस्ते <!-- Hindi Namasthe -->
+- नमस्ते
 - Namasthe
 - hello there
 - good morning
@@ -20,6 +20,7 @@
 - goodmorning
 - goodevening
 - good afternoon
+- Hello
 
 ## intent:goodbye
 - cu
