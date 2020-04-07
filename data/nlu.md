@@ -21,6 +21,8 @@
 - goodevening
 - good afternoon
 - Hello
+- hellp
+- Top of the morning
 
 ## intent:goodbye
 - cu
